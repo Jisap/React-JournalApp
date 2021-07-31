@@ -2,9 +2,9 @@ import cloudinary from 'cloudinary'
 import { fileUpload } from "../../helpers/fileUpload";
 
 cloudinary.config({ 
-  cloud_name: 'downe22q2', 
-  api_key: '561179869514785', 
-  api_secret: 'Mvk0VGOtDYJ1E3gVBo0s8ChYJZA' 
+  cloud_name: '********', 
+  api_key: '*************', 
+  api_secret: '***************************' 
 });
 
 
